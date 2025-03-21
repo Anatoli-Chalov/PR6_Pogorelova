@@ -1,7 +1,0 @@
-C:\Users\Admin\Desktop\ \Cod C\MDK 01.04\PR6_Pogorelova\ConsoleApplication1\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
-C:\Users\Admin\Desktop\ \Cod C\MDK 01.04\PR6_Pogorelova\ConsoleApplication1\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
-C:\Users\Admin\Desktop\ \Cod C\MDK 01.04\PR6_Pogorelova\ConsoleApplication1\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
-C:\Users\Admin\Desktop\ \Cod C\MDK 01.04\PR6_Pogorelova\ConsoleApplication1\ConsoleApplication5\obj\Debug\ConsoleApplication5.csproj.AssemblyReference.cache
-C:\Users\Admin\Desktop\ \Cod C\MDK 01.04\PR6_Pogorelova\ConsoleApplication1\ConsoleApplication5\obj\Debug\ConsoleApplication5.csproj.CoreCompileInputs.cache
-C:\Users\Admin\Desktop\ \Cod C\MDK 01.04\PR6_Pogorelova\ConsoleApplication1\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
-C:\Users\Admin\Desktop\ \Cod C\MDK 01.04\PR6_Pogorelova\ConsoleApplication1\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb

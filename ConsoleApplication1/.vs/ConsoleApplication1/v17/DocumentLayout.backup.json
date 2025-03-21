@@ -3,23 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\\u00A0\\Cod C\\MDK 01.04\\PR6_Pogorelova\\ConsoleApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7718CB1D-E1A8-4ED5-8344-2B265F5B63DD}|ConsoleApplication5\\ConsoleApplication5.csproj|c:\\users\\admin\\desktop\\\u00A0\\cod c\\mdk 01.04\\pr6_pogorelova\\consoleapplication1\\consoleapplication5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7718CB1D-E1A8-4ED5-8344-2B265F5B63DD}|ConsoleApplication5\\ConsoleApplication5.csproj|solutionrelative:consoleapplication5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90271B4A-1CAB-4644-ABDA-FBF6F6D79271}|ConsoleApplication3\\ConsoleApplication3.csproj|c:\\users\\admin\\desktop\\\u00A0\\cod c\\mdk 01.04\\pr6_pogorelova\\consoleapplication1\\consoleapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90271B4A-1CAB-4644-ABDA-FBF6F6D79271}|ConsoleApplication3\\ConsoleApplication3.csproj|solutionrelative:consoleapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{399CB1FB-A411-4889-BFCB-3161BFCCDD9F}|ConsoleApplication4\\ConsoleApplication4.csproj|c:\\users\\admin\\desktop\\\u00A0\\cod c\\mdk 01.04\\pr6_pogorelova\\consoleapplication1\\consoleapplication4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{399CB1FB-A411-4889-BFCB-3161BFCCDD9F}|ConsoleApplication4\\ConsoleApplication4.csproj|solutionrelative:consoleapplication4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9AE8D7D0-7448-420A-A182-5D26C71F2953}|ConsoleApplication2\\ConsoleApplication2.csproj|c:\\users\\admin\\desktop\\\u00A0\\cod c\\mdk 01.04\\pr6_pogorelova\\consoleapplication1\\consoleapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE8D7D0-7448-420A-A182-5D26C71F2953}|ConsoleApplication2\\ConsoleApplication2.csproj|solutionrelative:consoleapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFE8FD6F-012D-464A-93F9-C4FAAC848ADE}|ConsoleApplication3\\ConsoleApplication3.csproj|c:\\users\\admin\\desktop\\\u00A0\\cod c\\mdk 01.04\\pr6_pogorelova\\consoleapplication1\\consoleapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFE8FD6F-012D-464A-93F9-C4FAAC848ADE}|ConsoleApplication3\\ConsoleApplication3.csproj|solutionrelative:consoleapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C46EB3DB-3159-47A9-A403-C94793233A7D}|ConsoleApplication2\\ConsoleApplication2.csproj|c:\\users\\admin\\desktop\\\u00A0\\cod c\\mdk 01.04\\pr6_pogorelova\\consoleapplication1\\consoleapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C46EB3DB-3159-47A9-A403-C94793233A7D}|ConsoleApplication2\\ConsoleApplication2.csproj|solutionrelative:consoleapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34BF9AE4-BB45-4976-8453-86E34E57A006}|ConsoleApplication1\\ConsoleApplication1.csproj|c:\\users\\admin\\desktop\\\u00A0\\cod c\\mdk 01.04\\pr6_pogorelova\\consoleapplication1\\consoleapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{34BF9AE4-BB45-4976-8453-86E34E57A006}|ConsoleApplication1\\ConsoleApplication1.csproj|C:\\Users\\Admin\\Desktop\\\u00A0\\Cod C\\MDK 01.04\\PR6_Pogorelova\\ConsoleApplication1\\consoleapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34BF9AE4-BB45-4976-8453-86E34E57A006}|ConsoleApplication1\\ConsoleApplication1.csproj|solutionrelative:consoleapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -40,63 +32,37 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u00A0\\Cod C\\MDK 01.04\\PR6_Pogorelova\\ConsoleApplication1\\ConsoleApplication5\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApplication5\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u00A0\\Cod C\\MDK 01.04\\PR6_Pogorelova\\ConsoleApplication1\\ConsoleApplication5\\Program.cs",
-              "RelativeToolTip": "ConsoleApplication5\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u00A0\\Cod C\\MDK 01.04\\PR6_Pogorelova\\ConsoleApplication1\\ConsoleApplication3\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApplication3\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u00A0\\Cod C\\MDK 01.04\\PR6_Pogorelova\\ConsoleApplication1\\ConsoleApplication3\\Program.cs",
+              "RelativeToolTip": "ConsoleApplication3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAACNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T18:41:42.792Z",
+              "WhenOpened": "2025-03-21T05:33:25.671Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u00A0\\Cod C\\MDK 01.04\\PR6_Pogorelova\\ConsoleApplication1\\ConsoleApplication4\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApplication4\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u00A0\\Cod C\\MDK 01.04\\PR6_Pogorelova\\ConsoleApplication1\\ConsoleApplication4\\Program.cs",
-              "RelativeToolTip": "ConsoleApplication4\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u00A0\\Cod C\\MDK 01.04\\PR6_Pogorelova\\ConsoleApplication1\\ConsoleApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApplication2\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u00A0\\Cod C\\MDK 01.04\\PR6_Pogorelova\\ConsoleApplication1\\ConsoleApplication2\\Program.cs",
+              "RelativeToolTip": "ConsoleApplication2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T18:40:10.882Z",
+              "WhenOpened": "2025-03-21T05:22:49.182Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u00A0\\Cod C\\MDK 01.04\\PR6_Pogorelova\\ConsoleApplication1\\ConsoleApplication3\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApplication3\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u00A0\\Cod C\\MDK 01.04\\PR6_Pogorelova\\ConsoleApplication1\\ConsoleApplication3\\Program.cs",
-              "RelativeToolTip": "ConsoleApplication3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T18:39:02.853Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u00A0\\Cod C\\MDK 01.04\\PR6_Pogorelova\\ConsoleApplication1\\ConsoleApplication2\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApplication2\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u00A0\\Cod C\\MDK 01.04\\PR6_Pogorelova\\ConsoleApplication1\\ConsoleApplication2\\Program.cs",
-              "RelativeToolTip": "ConsoleApplication2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T18:35:08.158Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u00A0\\Cod C\\MDK 01.04\\PR6_Pogorelova\\ConsoleApplication1\\ConsoleApplication1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApplication1\\Program.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\\u00A0\\Cod C\\MDK 01.04\\PR6_Pogorelova\\ConsoleApplication1\\ConsoleApplication1\\Program.cs",
               "RelativeToolTip": "ConsoleApplication1\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAgwDYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T18:32:27.654Z",
               "EditorCaption": ""

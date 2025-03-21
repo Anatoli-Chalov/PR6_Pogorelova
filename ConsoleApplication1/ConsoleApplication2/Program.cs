@@ -9,37 +9,45 @@ namespace ConsoleApplication2
         {
             try
             {
-                // Создаем файл и записываем в него 10 случайных чисел
+                // Создаем файл F и записываем в него 10 символов
                 FileStream f = new FileStream("F.txt", FileMode.Create, FileAccess.Write);
-                byte[] numbers = new byte[10];
-                Random random = new Random();
+                char[] symbols = new char[10];
+                int index = 0;
 
-                for (int i = 0; i < 10; i++)
+                Console.WriteLine("Введите 10 символов:");
+                while (index < 10)
                 {
-                    numbers[i] = (byte)random.Next(0, 256); // Генерация чисел от 0 до 255
+                    char c = Console.ReadKey().KeyChar; // Чтение символа с клавиатуры
+                    if (c != ' ') // Игнорируем пробел
+                    {
+                        symbols[index] = c;
+                        f.WriteByte((byte)symbols[index]); // Запись символа в файл
+                        index++;
+                    }
                 }
-
-                f.Write(numbers, 0, numbers.Length); // Запись чисел в файл
                 f.Close();
 
-                // Чтение файла и подсчет нечетных чисел
+                // Чтение данных из файла F
                 f = new FileStream("F.txt", FileMode.Open, FileAccess.Read);
-                byte[] readNumbers = new byte[10];
-                f.Read(readNumbers, 0, readNumbers.Length);
+                byte[] readBytes = new byte[10];
+                f.Read(readBytes, 0, readBytes.Length);
+                f.Close();
 
-                int oddCount = 0; // Счетчик нечетных чисел
-                Console.WriteLine("Числа из файла:");
-                foreach (byte number in readNumbers)
+                // Подсчет больших латинских букв
+                int uppercaseCount = 0;
+                Console.WriteLine("\nСодержимое файла F:");
+                foreach (byte b in readBytes)
                 {
-                    Console.Write(number + " "); // Вывод всех чисел для наглядности
-                    if (number % 2 != 0) // Проверка на нечетность
+                    char c = (char)b;
+                    Console.Write(c + " "); // Вывод символов для наглядности
+                    if (c >= 'A' && c <= 'Z') // Проверка на большую латинскую букву
                     {
-                        oddCount++;
+                        uppercaseCount++;
                     }
                 }
 
-                Console.WriteLine("\nКоличество нечетных чисел: " + oddCount);
-                f.Close();
+                // Вывод результата
+                Console.WriteLine("\nКоличество больших латинских букв: " + uppercaseCount);
             }
             catch (Exception e)
             {
